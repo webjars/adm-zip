@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>adm-zip</artifactId>
-    <version>0.4.4</version>
+    <version>0.4.5-SNAPSHOT</version>
     <name>adm-zip</name>
     <description>WebJar for adm-zip</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/adm-zip</url>
         <connection>scm:git:https://github.com/webjars/adm-zip.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/adm-zip.git</developerConnection>
-        <tag>adm-zip-0.4.4</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
